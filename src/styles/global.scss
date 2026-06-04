@@ -1,0 +1,12 @@
+@import "./toastify.scss";
+@import "./global-ghost.scss";
+@import "./bootstrap.scss";
+@import "./animations.scss";
+
+.text-rtl {
+  direction: rtl;
+}
+
+.page-text {
+  background: rgba(white, 0.9);
+}

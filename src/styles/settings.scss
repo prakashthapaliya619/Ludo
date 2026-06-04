@@ -1,0 +1,53 @@
+// colors
+$primary: hsl(164, 100%, 50%);
+$secondary: hsl(181, 100%, 50%);
+
+$success: hsl(135, 59%, 41%);
+$info: hsl(174, 62%, 47%);
+$warning: hsl(35, 100%, 55%);
+$danger: hsl(353, 81%, 51%);
+
+$light: hsl(180, 100%, 99%);
+$dark: hsl(180, 13%, 20%);
+$dark-less: hsl(180, 5%, 30%);
+$gray-60: hsl(180, 13%, 60%);
+
+$sky: #87ceeb;
+
+$brand-1: hsl(356, 100%, 65%);
+$brand-2: hsl(126, 100%, 65%);
+$brand-3: hsl(206, 100%, 65%);
+$brand-4: hsl(305, 100%, 65%);
+
+$brand-6: hsl(135, 100%, 50%);
+$brand-7: hsl(281, 100%, 50%);
+$brand-8: hsl(164, 100%, 50%);
+$brand-9: hsl(181, 100%, 50%);
+$brand-10: hsl(175, 33%, 50%);
+
+$body-bg: white;
+$body-color: hsl(207, 95%, 8%);
+$link-color: hsl(164, 100%, 30%);
+$link-hover-color: darken($link-color, 15%);
+
+// spacings
+$grid-gutter-width: rem(16px);
+$golden-ratio: 1.61803398875;
+$board-width: 576px;
+
+// shapes
+$step-width: 8.33333333333%;
+$step-gutter: 0.83333333333%;
+
+// animations
+$marble-animation-duration: 300;
+$marble-go-to-heaven-duration: 1000;
+$step-go-to-heaven-duration: 300;
+$step-go-to-heaven-delay: $marble-animation-duration + $marble-go-to-heaven-duration;
+
+// typography
+$font-family-sans-serif: 'Open Sans', sans-serrif;
+
+// general
+$enable-shadows: true;
+$enable-print-styles: false;
