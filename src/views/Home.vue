@@ -22,7 +22,7 @@
       <small
         ><a
           target="_blank"
-          href="https://github.com/mort3za/ludo/releases"
+          href="https://github.com/prakashthapaliya619/ludo/releases"
           class="text-dark d-block"
           v-if="showBuildInfo"
           >See Changes</a
